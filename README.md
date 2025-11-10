@@ -1,2 +1,2 @@
-# Actividad-JS
+# ActividadJS
 actividad #1 JS
